@@ -9,8 +9,7 @@ text font size -> 20 pixels
 heading color -> white */
 
 .container{
-    text-align: center;
-    width: 300px;
+    width: 200px;
     background-color: purple;
     padding: 10px;
     font-size: 20px;
